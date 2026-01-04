@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SexyBack",
+  "base_artist": "Justin Timberlake",
+  "createdAt": "2026-01-04T15:13:29.696168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sexyback",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/01_Sexyback_Poison.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SexyBack (feat. Timbaland)",
+      "artist": "Justin Timberlake feat. Timbaland",
+      "has_synced": true,
+      "path": "select/02_SexyBack_(feat._Timbaland)_Justin_Timberlake_feat._Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sexyback",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/03_Sexyback_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SexyBack (feat. Timbaland)",
+      "artist": "Justin Timberlake, Timbaland",
+      "has_synced": true,
+      "path": "select/04_SexyBack_(feat._Timbaland)_Justin_Timberlake,_Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SexyBack",
+      "artist": "Justin Timberlake feat. Timbaland",
+      "has_synced": true,
+      "path": "select/05_SexyBack_Justin_Timberlake_feat._Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SexyBack",
+      "artist": "Justin Timberlake/Timbaland",
+      "has_synced": true,
+      "path": "select/06_SexyBack_Justin_Timberlake_Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SexyBack (feat. Timbaland)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/07_SexyBack_(feat._Timbaland)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SexyBack (DJ Wayne Williams Ol' Skool Remix)",
+      "artist": "Justin Timberlake feat. Missy Elliott & Timbaland",
+      "has_synced": true,
+      "path": "select/08_SexyBack_(DJ_Wayne_Williams_Ol'_Skool_Remix)_Justin_Timberlake_feat._Missy_Elliott_&_Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SexyBack (DJ Wayne Williams Ol' Skool Remix) (feat. Missy Elliott & Timbaland)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/09_SexyBack_(DJ_Wayne_Williams_Ol'_Skool_Remix)_(feat._Missy_Elliott_&_Timbaland)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SexyBack (Linus Loves Remix) [feat. Timbaland]",
+      "artist": "Justin Timberlake feat. Timbaland",
+      "has_synced": true,
+      "path": "select/10_SexyBack_(Linus_Loves_Remix)_[feat._Timbaland]_Justin_Timberlake_feat._Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SexyBack (Linus Loves Remix)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/11_SexyBack_(Linus_Loves_Remix)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SexyBack",
+      "artist": "Justin Timberlake, Timbaland",
+      "has_synced": true,
+      "path": "select/12_SexyBack_Justin_Timberlake,_Timbaland.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sexyback",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/13_Sexyback_Justin_Timberlake.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Justin Timberlake feat. Timbaland - SexyBack",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/14_Justin_Timberlake_feat._Timbaland_-_SexyBack_Various.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SexyBack",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/15_SexyBack_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SexyBack",
+      "artist": "Sexy Back",
+      "has_synced": false,
+      "path": "select/16_SexyBack_Sexy_Back.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SexyBack",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/pl_01_SexyBack_Justin_Timberlake.txt"
+    }
+  ]
+}
